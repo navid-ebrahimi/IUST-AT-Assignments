@@ -2,6 +2,8 @@
 
 My solutions to IUST's Algoritmic Trading assignments, Fall 2023, [Dr. Entezari](https://scholar.google.com/citations?user=nOx3MnAAAAAJ&hl=en)
 
+Group members: [Mahdi Ghazavi](https://github.com/iMahdiGhazavi/), Navid Ebrahimi
+
 ## Outline
 
 - HW1
